@@ -22,8 +22,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository** (if applicable):
    ```
-   git clone <repository-url>
-   cd my-python-project
+   git clone git@github.com:puttpotsawee/simple-python-boilerplate-with-test.git .
    ```
 
 2. **Install the required dependencies**:
