@@ -18,12 +18,19 @@ my-python-project
 
 ## Getting Started
 
-To get started with this project, follow these steps:
+To get started with this boilerplate, follow these steps:
 
 1. **Clone the repository** (if applicable):
    ```
    git clone git@github.com:puttpotsawee/simple-python-boilerplate-with-test.git .
    ```
+
+- **(Optional) to clear up the git history** run the following command:
+   ```
+   rm -rf .git
+   git init
+   ```
+   then initiate this clonned folder as a repository
 
 2. **Install the required dependencies**:
    You can install the dependencies listed in `requirements.txt` using pip:
