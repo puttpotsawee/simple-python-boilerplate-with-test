@@ -33,18 +33,22 @@ To get started with this boilerplate, follow these steps:
    then initiate this clonned folder as a repository
 
 2. **Install the required dependencies**:
+   If you use `venv`, run this command:
+   ```shell
+   python -m venv .venv
+   ```
    You can install the dependencies listed in `requirements.txt` using pip:
    ```
    pip install -r requirements.txt
    ```
 
-3. **Run the application**:
+4. **Run the application**:
    To run the main script, execute the following command:
    ```
    python src/main.py
    ```
 
-4. **Run the tests**:
+5. **Run the tests**:
    To run the tests using pytest, execute:
    ```
    pytest
